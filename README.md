@@ -11,7 +11,7 @@ ou
     python3 -m playwright install  
 Passos para instalar o Playwright no Termux:
 
-    Atualize o Termux e instale as dependências:
+Atualize o Termux e instale as dependências:
 
 Execute os seguintes comandos para garantir que o Termux e todos os pacotes estejam atualizados:
 
